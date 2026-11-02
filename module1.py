@@ -27,6 +27,7 @@ print(notes[0])        # affiche 14  (le 1er élément — indice 0)
 print(notes[4])        # affiche 9   (le 5e élément — indice 4)
 print(len(notes))      # affiche 5   (nombre d'éléments dans la liste)
 
+
 print("La boucle for")
 
 note = 14
