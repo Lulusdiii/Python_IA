@@ -31,6 +31,16 @@ print("La boucle for")
 
 note = 14
 
+notes = [14, 18, 12, 16, 9]
+
+for n in notes:
+    print("Note :", n)    # <-- ce bloc est décalé de 4 espaces : c'est l'indentation
+
+
+print("L'instruction if ... else")
+
+note = 14
+
 if note >= 10:
     print("Admis")      # <-- bloc exécuté si la condition est vraie
 else:
